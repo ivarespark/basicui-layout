@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Basic UI</string>
+    <string name="hello">Hello</string>
+    <string name="username">Jhon</string>
+    <string name="search_elements">Search elements</string>
+    <string name="goals">Goals</string>
+    <string name="finance">Finance</string>
+    <string name="health">Health</string>
+    <string name="confort">Confort</string>
+    <string name="trending">TRENDING</string>
+    <string name="dummy_text">Lerem ipsun is a dummy text for trending data and typeseting industry</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+</resources>
